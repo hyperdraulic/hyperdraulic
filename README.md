@@ -2,7 +2,7 @@
 
 Me chamo João Vitor
 
-- Atualmente estou realizando o curso 'Repositório Digital atráves da plataforma [Alura](https://www.alura.com.br/)
+- Atualmente estou realizando o curso 'Repositório Digital' atráves da plataforma [Alura](https://www.alura.com.br/)
 - Este repositório tem como intuito compartilhar meus projetos desenvolvidos
 
 
