@@ -3,7 +3,7 @@
 Me chamo João Vitor
 
 - Atualmente estou realizando cursos na plataforma [Alura](https://www.alura.com.br/)
-- Este repositório tem como intuito compartilhar meus projetos desenvolvidos
+- Os repositórios presentes neste perfil tem intuito de compartilhar meus projetos desenvolvidos
 
 
 ### Entre em contato comigo! 📫
