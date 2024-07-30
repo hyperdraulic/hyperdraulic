@@ -6,7 +6,7 @@ Me chamo João Vitor
 - Este repositório tem como intuito compartilhar meus projetos desenvolvidos
 
 
-### Entre em contato comigo 📫
+### Entre em contato comigo! 📫
 
 hhyperdraulic@gmail.com
 
