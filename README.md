@@ -6,11 +6,11 @@ Me chamo João Vitor
 - Este repositório tem como intuito compartilhar meus projetos desenvolvidos
 
 
-### Entre em contato comigo :
+### Entre em contato comigo 📫
 
 hhyperdraulic@gmail.com
 
 
 
 
-![](https://64.media.tumblr.com/bc7cac918e838ce375962541cab6f76d/tumblr_pkmu6lhrQW1wqc0qbo1_500.gifv)
+![](https://media1.tenor.com/m/e2Ih2dX2po4AAAAd/drift.gif)
