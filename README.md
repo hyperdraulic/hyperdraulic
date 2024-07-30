@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá!
 
-<!--
-**hyperdraulic/hyperdraulic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo João Vitor
 
-Here are some ideas to get you started:
+- Atualmente estou realizando o curso 'Repositório Digital atráves da plataforma [Alura](https://www.alura.com.br/)
+- Este repositório tem como intuito compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Entre em contato comigo :
+
+hhyperdraulic@gmail.com
+
+
+
+
+![](https://64.media.tumblr.com/bc7cac918e838ce375962541cab6f76d/tumblr_pkmu6lhrQW1wqc0qbo1_500.gifv)
